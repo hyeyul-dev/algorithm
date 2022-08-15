@@ -1,4 +1,4 @@
-#정렬 문제
+#스택,구현, 그리디 문제
 
 #https://www.acmicpc.net/problem/5397
 
